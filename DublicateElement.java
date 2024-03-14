@@ -11,7 +11,7 @@ public class DublicateElement {
 			{
 				if(arr[i]==arr[j])
 				{
-					System.out.println(arr[i]+": is the dublicate number");
+					System.out.println(arr[i]+": is the dublicate numbers");
 				}
 			}
 		}
